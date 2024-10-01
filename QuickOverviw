@@ -1,0 +1,25 @@
+# Introduction to Game Development
+
+## Overview of Game Design Concepts
+
+### Game Genres
+- **Platformers**: Games where the player navigates environments by jumping and avoiding obstacles (e.g., *Super Mario*).
+- **Puzzles**: Games focused on logic and problem-solving (e.g., *Tetris*).
+- **Top-Down Shooters**: Games with a bird's-eye view where the player typically shoots enemies (e.g., *Space Invaders*).
+- **RPGs (Role-Playing Games)**: Games with character progression, storytelling, and strategic combat (e.g., *Final Fantasy*).
+
+### Game Loop Structure
+1. **Input**: Capturing player inputs (keyboard, mouse, gamepad).
+2. **Update**: Processing game logic (player movement, collisions, AI).
+3. **Render**: Drawing everything on the screen (sprites, UI elements, background).
+
+### Key Concepts
+- **Sprites**: 2D images or animations that represent objects in the game (e.g., characters, enemies, items).
+- **Physics**: Handling movement, gravity, and collisions between objects (especially important in platformers and shooters).
+- **UI (User Interface)**: On-screen elements like health bars, score counters, and menus.
+- **Sound**: Music and sound effects that enhance the gameplay experience.
+
+### Difference Between 2D and 3D Games
+- **2D Games**: Movement and gameplay happen on a two-dimensional plane (x and y axes). Example: *Celeste*.
+- **3D Games**: Adds a third dimension (z-axis) for depth, creating a more immersive environment. Example: *Minecraft*.
+
